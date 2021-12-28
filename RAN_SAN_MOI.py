@@ -1,6 +1,6 @@
 import pgzrun
 import random
-truc_x=30
+truc_x=3
 truc_y=20
 kich_thuoc_o=20
 thoi_gian=0
