@@ -1,7 +1,7 @@
 import pgzrun
 import random
 truc_x=35
-truc_y=20
+truc_y=25
 kich_thuoc_o=20
 thoi_gian=0
 diem = 0
